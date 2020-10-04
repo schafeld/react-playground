@@ -6,6 +6,10 @@ https://dev.to/davidnmora/i-prototype-react-apps-rediculously-quickly-here-are-m
 
 https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
+## Github Page:
+### 
+```npm run deploy``` will deploy project to: 
+https://schafeld.github.io/react-playground/
 
 ## Available Scripts
 
